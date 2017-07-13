@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xam_Sec.UWP", "Xam-Sec\Xam_
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Xam-Sec\Xam_Sec\Xam_Sec.projitems*{022b4507-29a9-4040-b285-4b8f45d5b885}*SharedItemsImports = 4
 		Xam-Sec\Xam_Sec\Xam_Sec.projitems*{3eb7e7a7-0dbc-47d6-a86a-d3955f60dddb}*SharedItemsImports = 4
 		Xam-Sec\Xam_Sec\Xam_Sec.projitems*{e1be9f86-bfe6-40db-bf54-bc8d5e6f23b7}*SharedItemsImports = 4
 		Xam-Sec\Xam_Sec\Xam_Sec.projitems*{fbf7ebcb-c0cc-40f1-b947-3cc6f8590ce6}*SharedItemsImports = 13
